@@ -1,0 +1,7 @@
+ros-indigo-rosjava-test-msgs (0.2.1-0saucy) saucy; urgency=high
+
+  * moved from rosjava_messages (which is now a generator only).
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 24 Feb 2015 15:00:00 -0000
+
+
